@@ -10,6 +10,8 @@
 
 # Let your players create the worlds
 
+## THIS IS A FORK OF [OpenCreative+](https://gitlab.com/eagles-creative/opencreative)
+
 Minecraft plugin for PaperMC servers that allows players to create their worlds.
 
 ### [Showcase Video](https://www.youtube.com/watch?v=dXLuH8MwmJ8) - [Modrinth](https://modrinth.com/plugin/opencreative) - [Hangar](https://hangar.papermc.io/mcchickenstudio/OpenCreative) - [Builds](https://gitlab.com/eagles-creative/opencreative/-/packages) - [Installation](https://gitlab.com/eagles-creative/opencreative/-/wikis/home/Installation) - [Permissions](https://gitlab.com/eagles-creative/opencreative/-/wikis/Home/Permissions)
